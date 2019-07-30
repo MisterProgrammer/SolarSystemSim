@@ -5,7 +5,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_image.h>
-#define PI 3.14159265358979323846
+#define PI 3.141592653589793238467
 
 typedef struct Planet_{
   double distanceToGravPoolMeters;
